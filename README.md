@@ -5,11 +5,11 @@
 
 <p align="center">
 
-![Ide-1](/image-files/abstractScratches-1.jpg)
+<!-- ![Ide-1](/image-files/abstractScratches-1.jpg)
 
 ![Ide-2](/image-files/abstractScratches-2.jpg)
 
-![Ide-3](/image-files/abstractScratches-3.jpg)
+![Ide-3](/image-files/abstractScratches-3.jpg) -->
 </p>
 
 <!-- Ideas: Creating A book from github -->
